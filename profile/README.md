@@ -14,7 +14,7 @@ Perceptors helps academic medical centers, medical societies, and health systems
 - **Learner experience.** Academies bring courses, assessments, and progress together with a Guide that answers from approved material and cites its sources.
 - **Review and credentials.** Reviewers can inspect a course and its supporting evidence before approving it. Academies can issue credentials under their program's rules.
 
-Perceptors is live in the UAE with built-in GCLS healthcare courses. Explore the [platform](https://www.perceptors.ai/technology), [customer stories](https://www.perceptors.ai/customers), and [research behind the approach](https://www.perceptors.ai/evidence).
+Explore the Perceptors [platform](https://www.perceptors.ai/technology), [customer stories](https://www.perceptors.ai/customers), and [research behind the approach](https://www.perceptors.ai/evidence).
 
 ## Learn with DrVibe
 
